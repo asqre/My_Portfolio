@@ -50,12 +50,37 @@
     padding: 0.75rem 1.5rem;
     border: none;
     border-radius: 2rem;
+    cursor: pointer;
 }
 
 .btnImg {
     object-fit: cover;
     margin: 0 0.25rem;
     height: 1rem;
+}
+
+.profile-details-role{
+    display: flex;
+    flex-direction: column;
+    margin: 14px 0 24px 0;
+}
+
+.profile-details-role h3{
+    font-size: 48px;
+    font-family: cursive;
+}
+
+.primary-text{
+    color: (--white);
+}
+
+.highlighted-btn {
+    cursor: pointer;
+}
+
+.btnSpace {
+    display: flex;
+    gap: 20px;
 }
 
 @media screen and (max-width:840px) {
