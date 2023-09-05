@@ -1,5 +1,5 @@
 # Run Application Live 
-[PortFolio](https://amitanand.netlify.app/))
+[PortFolio](https://amitanand.netlify.app/)
 
 
 # Getting Started with Create React App
